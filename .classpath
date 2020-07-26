@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Anjani_Sukhavasi_Design-Principles-master/calculator_Desgin_Principles/src/main/java"/>
+	<classpathentry kind="src" path="Anjani_Sukhavasi_Design-Principles-master/calculator_Desgin_Principles/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="Anjani_Sukhavasi_Design-Principles-master/calculator_Desgin_Principles/target/classes"/>
+</classpath>
